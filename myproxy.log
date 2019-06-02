@@ -1,0 +1,423 @@
+Thread 140573748901632 >> GET http://192.168.195.129:45329/ HTTP/1.1
+Thread 140573748901632 >> ! Rio_readlineb_w Error !
+Thread 140573748901632 >> ! Rio_writen_w Error !
+>> Jarvis: Request Headers
+>> GET http://192.168.195.129:41165/ HTTP/1.1
+
+>>>>> Forward request headers to server
+GET / HTTP/1.1
+Accept-Charset: latin-1
+Host: ipads.se.sjtu.edu.cn
+Connection: keep-alive
+
+<<<<< Receive response from server.
+>>HTTP/1.1 500 Internal Server Error
+>>Connection: close
+>>Authorization: Basic YWRta67cYWRtaW4=
+>>Server: JrSFEW5iYZy4dmh
+>>Content-Length: 421
+> Paring -> Content-Length : 421
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:52:17 EDT: 192.168.195.129 http://192.168.195.129:41165/ 563
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:44089/Q8C22vB5wf3tEyTN/lSQmBjgD8lW4?YC9st0Ta5BbtpM9og=039diS0BTQFAb8G1C7&omWqEzpVZEJhHTDJYWE=3v8MR0yiph9STzx5mdur HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /Q8C22vB5wf3tEyTN/lSQmBjgD8lW4?YC9st0Ta5BbtpM9og=039diS0BTQFAb8G1C7&omWqEzpVZEJhHTDJYWE=3v8MR0yiph9STzx5mdur HTTP/1.1
+Connection: close
+Authorization: Basic YWRta67cYWRtaW4=
+
+<<<<< Receive response from server.
+>>HTTP/1.1 401 Unauthorized
+>>Connection: keep-alive
+>>Authorization: Basic YWRta67cYWRtaW4=
+>>Server: i9Uike2nqgOCvAG
+>>Content-Length: 320
+> Paring -> Content-Length : 320
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:52:19 EDT: 192.168.195.129 http://127.0.0.1:44089/Q8C22vB5wf3tEyTN/lSQmBjgD8lW4?YC9st0Ta5BbtpM9og=039diS0BTQFAb8G1C7&omWqEzpVZEJhHTDJYWE=3v8MR0yiph9STzx5mdur 458
+>> Jarvis: Request Headers
+>> POST http://127.0.0.1:43223/dAd6DEGoQSTY/eQYQ6w26UMFU8DD7JOX HTTP/1.1
+
+>>>>> Forward request headers to server
+POST /dAd6DEGoQSTY/eQYQ6w26UMFU8DD7JOX HTTP/1.1
+Host: www.cnblogs.com
+Accept: text/plain
+Content-Length: 423
+> Parse Content-Length: 423
+ > length : 423
+<Request Body>
+>> exit while loop status : 1
+
+<<<<< Receive response from server.
+>>>> Jarvis: Request Headers
+>> POST http://127.0.0.1:46057/DzghblNauSDUV/zW31fpxb0haN HTTP/1.1
+>> Jarvis: Request Headers
+>> POST http://127.0.0.1:46057/DzghblNauSDUV/zW31fpxb0haN HTTP/1.1
+
+>>>>> Forward request headers to server
+POST /DzghblNauSDUV/zW31fpxb0haN HTTP/1.1
+Accept-Charset: gb2312
+Host: www.baidu.com
+Authorization: Basic YWRta67cYWRtaW4=
+Accept: text/plain
+Content-Length: 508
+> Parse Content-Length: 508
+ > length : 508
+<Request Body>
+>> exit while loop status : 1
+
+<<<<< Receive response from server.
+>>>> Jarvis: Request Headers
+>> POST http://127.0.0.1:46057/DzghblNauSDUV/zW31fpxb0haN HTTP/1.1
+
+>>>>> Forward request headers to server
+POST /DzghblNauSDUV/zW31fpxb0haN HTTP/1.1
+Accept-Charset: gb2312
+Host: www.baidu.com
+Authorization: Basic YWRta67cYWRtaW4=
+Accept: text/plain
+Content-Length: 508
+> Parse Content-Length: 508
+ > length : 508
+<Request Body>
+>> exit while loop status : 1
+
+<<<<< Receive response from server.
+>>>> Jarvis: Request Headers
+>> POST http://127.0.0.1:46057/DzghblNauSDUV/zW31fpxb0haN HTTP/1.1
+
+>>>>> Forward request headers to server
+POST /DzghblNauSDUV/zW31fpxb0haN HTTP/1.1
+Accept-Charset: gb2312
+Host: www.baidu.com
+Authorization: Basic YWRta67cYWRtaW4=
+Accept: text/plain
+Content-Length: 508
+> Parse Content-Length: 508
+ > length : 508
+<Request Body>
+>> exit while loop status : 1
+
+<<<<< Receive response from server.
+>>>> Jarvis: Request Headers
+>> POST http://127.0.0.1:37809/zT3KQh4hxMoWVYIx/qtN0toUt8osWEIStpXwG HTTP/1.1
+
+>>>>> Forward request headers to server
+POST /zT3KQh4hxMoWVYIx/qtN0toUt8osWEIStpXwG HTTP/1.1
+Accept-Charset: utf-8
+Connection: keep-alive
+Accept: text/plain
+Content-Length: 129
+> Parse Content-Length: 129
+ > length : 129
+<Request Body>
+>> exit while loop status : 1
+
+<<<<< Receive response from server.
+>>>> Jarvis: Request Headers
+>> POST http://127.0.0.1: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 HTTP/1.1
+
+>>>>> Forward request headers to server
+POST /KrGWJ57nDnnSyPr4ZETG5NKojunwM7jFjko3EZLKE0Ze1sNU6CUtpWa0XBqCTjGoQsndycQbpTht1VnTDpPGawixRFNb3HrT6df1OPhpwGqqyTI56ILZ0pWTvj9kYN6Gnfzp7pCvUwI7oRoFIEvHPlBIgvoEvQEU6Kok3UUpeA1dNXsf2lC7dxX9zaQ3vnqdoM3B7BUAicyKm7FCXeFelMXI1YqrONeKqJI3GPHrK8MHliIwqn0Fb9cfgras2oqOGZOCeKw0ZmUlpUquo4nhOUoP3XVIBsik8vsTkzJYDuEpvlJNxBvYHJp1pfO4iMqhkNxI7znYiVtqmz54moATJVxMcugxCVDibd2uIfFdq5IfYMAGS7jx8uVFlQ2vFIuQJsx9UHU7myz0W2hGf7VmvsnsVVA0Fe5YQ6Nl6YrnL5oCFfupASsjRSSIAfoEeEZpsTdWoCSX4PfDgcmv3dDjwZsD0GhviSlOAK5ATlz8cr2I30Lh9ZjbpQfqRSpOV0IaKwREwX6AeUxA6H9jbULJjQcZzyPenwvgnOctHDAcdBs3Wd3UXCv1hwvhP3gU6YQWA8yot3uc4Agpur0Ivg3CjQEcvMhv6ddDusmQbfSs2uowg4cu9ywd4rH3hFwnVMdoA6SCZo9gdRBd8VOIgjoCC2220sHga4YevatMol6IoqBNEILb3sqaId8z0C3scvmR0eUYKyPBdI9sOwKfLo7ha1wLBHODuAXli9ScR5EVhJsZIg82VoOVScjRdkvg9D2uTyqqGca9XuPfa85bCh6Pw8hdnJFGsaTufYUt2JU6bNuO4OlaMN7ysIrHgZOBYkK18dzxtfaRdXWCPiNZRavjrsfjoQrCBeavVWHr0cKvBe3kE1x9qbp1KbQkvLPk8c0UxWycMlYwbGO2pH7PuBFT6eRotHqM3wNwtT0r4zaLjFQznkDazFBsCg1HNcZC8wA01DwlSvaLYjENTfiygvQFcNCm8wSk3OgTWhVcxXyLe6g02auxGe8PX46kdTzqnELf6fhgBx5eTmqNb6sbw59rhM9CnhR303wMoYzUnl2nUouodx5mUo7r6lm45Be6BAz2peyMTXR4SObKPIE7JgbkOf8vU581aRs13OgLyKudEKLsZDK6sRumJjItAP0rQRLoyFmHtjfjXIzlf1wTyd5YNA53IzM4BBRGqzwZExm3Ny3uOwcx6ogmi0ZlPBQe5ebaqpDSSdAS6jL8T8dlBitpcdhbZ40xWLpa9jiEnE6cW9I16vOUbhPd6YOtcDgQCqsw06bWF0ocCQg8xRopIQcm0s0WiFwsAPQNCU4IuxzhnD3mEuteKSc2ULFPABLrwgh4H96Z0f3hRQjJApLSutrLI2BMQVP8bph29oLSnmMpBpt27vJINLWU3MFzl8mJWFCrefSpD2rPOfZYURALsdf2e3FURKbxM7wTAPsNdf79m0jEAUqJxp4xK3Ch7zBVi6M2yei5d74dOivR7iQId9zWzzDoiKlO9VerBrpQQ6wo7k55dQVhzDS8O2VYOl2LZqBGCSPEzXBU1DLBjW3yu2yTzo9SnmMTQVpe0B5aIh74icOIyMjMAKj3NeDj7xF6aPyVDyuq8JCYjZBrky9E8HZDcDm41mrxKQlpebl1OWeFoEqJEanvSlqgbtsvygGyiqc75XLUq0e8CNoAM9NurRC3NDxNgBjaScI1zpu0ud0Hjft8vvXVYsjyaK7b0d8eR1tVzDVz2QTYChHiBd46fxGFSe3ODaYZlZo0nVXFpVMhQ4yzQ0mSrBJOg6oiSBM11X2u1XUYNiQUe9KQQ118zgqTarawWTu4A8EqUo93SArrH53hP0pdyjl4PzSPIM3YN1hVfbGDwzQq49atpuwXN2g1qBisIDiS78cc8VjeX1plt9tDMEzfuepx7ngGvhpScBrRYAApRNO0kCt7p9gkqqkEV5pH65d2PtV5tLGcrGfLNwNkuIOxWIdTqeMUqr8QOyX8XkpuSdG3Bzbqbe72fIHkErzXWTe9I1nezvMr8FXl7r1cgyaWC4Icr1uqOLmB77UlE4NK4dJRHq6GH31waxhdvJlEzbxzfpjhoKC1ShhtzhiEWyYqVQRvmhn4IdnXwGUtgy36W5EwOxe0604Ue6jFSpUaKyN6uixc0waH1emcvt691cYywiFJd4L1d6hdYU9LjHpSuTTdwjqhAW9Wr2pGvFUEiMDUNXWHWRvslDljqYC3nZXphsoY9cJwWxmkafLHf4oJ0cHMKusq4RYR0EzNG8UP1Iix3FlFvzVyAsIMb2SWJluRihIoYylXuupvGyZwaO2kknFGmzRUkfaYzy7foTtJv6TlyYgCautGgOUrIURiyuZyWdWH8JbU934uRxIVaDB9n3qBDDQYPiBsVcG7TtoTjboUpYUtaFk5oOcTstFpC18fDPy9BR3do6k0byYk1R4iqt1hGBe6VsVUnclNcad9FMCdyl6BHn9kzSvQcqliBdLq2eOokIChY6DHrOkJrepBTVZ63hIbRdO68ufr81d3ndkCJgMcXPh4XR74AlwQ5Dg4Iiv7cnziDEa9FhPwS47X0YzjABIrvwVoUdktL6OvgAEP3myGip2NvSWqW4TAu7bTtESqb3WrNBSWITfkrR22rUOLY6nA3BXAsmpg7UpmFFz4E9TOrtbnYXi0cY1KtDvcQzJPKEWBTfa8D4gOj21sB2RdHiinqwbOuBvglMCeeHRMK/C0dmPwPTMMVZMKrqzSa7PgCZlqhWJ2qodwpjr6vBAB6ZdeegI8eqHehEGE08liXEoaYL2xxvRbyWN2H80y9zyP6hcUjIEm32fDAOlClWp6RTiKOQCiweKopXmMCfi8lkKhUFaNkiEq2PSXXWJ4wuQkAxmAhCq3QZftKUYalCPKj0inO2K217nPiqpAw7fRuEb6nTKdhfeakTPmKM09GORGsYED4gX9qLeRAa3tjLDa2j5AIfiQ9U2WBLjYAELpJlta2ErJSgw3bDj1y2iu4X4ALqKfliVWu1AX7GJGKDrqxXua6LCoN7mLcQ3G2W9EdFZMDWPrs2A9mG1O2gfwXH1UfUNeLZEGKxhKVswkNayWVbs2CPu1GWlPs967ZSLGDABi6KCzvz8mSM0HugeUhXQA4GiIv7HGmrT8XSpN6hRpl8Htx9uiE5ihYO9gk4ErwQ9Bs4wbJJd4tErIu2Gp9LVmQbkB5QHmbzmqC3aWchEafAk0X5pwcvSAlxi37jS1C5BJmhAaFgpU3cOqJF9juOpPTWjk5i5AacD4n7fMAxVSDzKnmEABCNcuGzxsGxtnx4YJWPSm2cprzXsk9LrwbuQVfjaMNPXTO7L4sLVESIaZXmLAeHIEh8pXURg5dR8BWRnUTyVJ82E92CsFLLGgnoWUi1HDlRic3FKnlmGLCGSqeg7YmJFcZHTR3feHtCwl707PGoTQp4mXa2IFKKxDbSxYV11vKUiYgsbXPwtxDMPvZvfiZiz1gFZV2YAsDua8clhtn7nRojJGSWygnNQhkYy5QQzPeL7CS1MZ2JaOZZWQY5cUszJQKNX43fpyVsEsqDo2mWcc26KShlgJvd6r45CSZXgqzyUgQBxZE67nxljStoFBs9mWzPNZUMRK3ZPxqTh0CoU81TKGx5nApcTVRiQcc7zoTCQifNVJLkhkQUKhIOb7VtBImlnmJBKHNAT4n8ZMRIdxJU7G86EwxmeHmlCjAmyA6Op5V6egas5n6YFADUkyZB4TgIbWGcb3dJ5OrCogBO2XkN4dAA8r3Zv9bXdpkIQE9nDKV53ENMhXVapxnwTt6RCq23VFUSMnwhmKMYOEWSWETJPHH8zD5RMR343O8R8ZYL9pAkhj8Sxp7kQoT9HANdi01NCkXIiyaY7qcMXaVNWVzko38jLhC0mQTvelgBZR1XFgA6xec7qR0SEbxrw0hOd95ZlspP3u2qgu9Mb09XtbOo7ekMopprrzmaDFXZsxVfloY0lFAiOeccNZu5vfUdUgWwEpeHVqAetQ7E8Oa5mNTT0q0upOwAcPOOYiWqdNWxDVo0z1HwdvS9E7n3SKhjPLrq70efysFAfu9kaaB4kkvmQytXUv9Ann5PBWyiKMfqFWkVHfC3UQiKHF4GAIl27mGeC1w8JKj2fHOO8MbvfOAT9v9Y3YLLjmioVVthRvGqVROqugX50pBEypKMDfgBl2jE639klSTAd1DM4obd1MsMeEscJC9kGwMBfjrP7Oqk5byUptMPn4wQIU0h37OG3GHiBKGdFLU68fs9FwTRpxen1cQt6STeC4ZsqiiNhub0F7OMsGVbb3FkbikWk8DcZwnhD5USR6mJKyMgF6Yj3nl0nRzA26duhCRsASSxnmjzDtgZOIaU1sYy4Vbfa2rRf6F3EHwkDUDSNa2N0WhAzmKsH33XC4JTtffWFd6S3xsHI8OhpJuMW4jNEwr0fUyER7zayiic1VmQhqdVE2bCiYMzzZ5fOag2HqKntu5sewqlTUrr7BWkfgqHL2B8nOKBYo9pYJCSCgyDGcODs1HrLP3PLCUlsNou2w2E5vJlFUxhCXVBSAdy71s08609nMub0jbxTRIM1pFmL9auX8GTfCyid8XXUOmBdD7t4LaX82goalRpKMtCrtSxErHyBB5phWOsKVNssl6trw8efhyPYTGAUfD0ruOAV5EDCEuPy5GhidZDsyf20TTLKlWx3puW7K4iUrjvxYtPAkMIOFFabqHFSLU5Xw8mrgaVFIWK2LhKu0k1oVXBaFk12tiW0kbtcz2xJERJiIrSgkgBo0zAKy407u414vWRD7nFfPXQux2UCydxHUw3D3tvHnncw4KM4xjZxLCrpy3vsihkek8gUijNHqUysrhVD4Qlcnp8xP2pB0BuEHvAMe7KPTf3wCV07htYneY4tZpDzu3zGqyekSRKyxADdZXI5FeuM7RNkqDTtafGthmdpuIh1dxcJexhQbpbUErdxRizc9mP9yMGCC8NktiVwoeltnkCE33HgXb1TENH9SSf HTTP/1.1
+Accept-Charset: utf-8
+Host: ipads.se.sjtu.edu.cn
+Authorization: Basic YWRta67cYWRtaW4=
+Content-Length: 12876
+> Parse Content-Length: 12876
+ > length : 12876
+<Request Body>
+>> exit while loop status : 1
+
+<<<<< Receive response from server.
+>>>> Jarvis: Request Headers
+>> GET http://127.0.0.1:46681/ HTTP/1.1
+
+>>>>> Forward request headers to server
+GET / HTTP/1.1
+Accept-Charset: utf-8
+Host: www.cnblogs.com
+Authorization: Basic YWRta67cYWRtaW4=
+Accept: image/jpeg
+
+<<<<< Receive response from server.
+>>HTTP/1.1 401 Unauthorized
+>>Accept-Charset: latin-1
+>>Connection: close
+>>Content-Length: 315
+> Paring -> Content-Length : 315
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:52:50 EDT: 127.0.0.1 http://127.0.0.1:46681/ 409
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:46681/X9NsMOQaT4/74HjGixQAh9ReE8?0987sgp0jM4ngFGL562=8K4z4QguC7miDYhCKIbl&Oov3l4qIwTMWcIutac9I=5Mr9NOtLLUjX72 HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /X9NsMOQaT4/74HjGixQAh9ReE8?0987sgp0jM4ngFGL562=8K4z4QguC7miDYhCKIbl&Oov3l4qIwTMWcIutac9I=5Mr9NOtLLUjX72 HTTP/1.1
+Host: www.google.com
+Connection: keep-alive
+
+<<<<< Receive response from server.
+>>HTTP/1.1 500 Internal Server Error
+>>Host: www.google.com
+>>Connection: close
+>>Authorization: Basic YWRtaW46YWRtaW4=
+>>Content-Length: 332
+> Paring -> Content-Length : 332
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:52:51 EDT: 127.0.0.1 http://127.0.0.1:46681/X9NsMOQaT4/74HjGixQAh9ReE8?0987sgp0jM4ngFGL562=8K4z4QguC7miDYhCKIbl&Oov3l4qIwTMWcIutac9I=5Mr9NOtLLUjX72 471
+>> Jarvis: Request Headers
+>> POST http://127.0.0.1:46681/NQMdM4HRCO2swDnM8/UlLqpRcKevFGlgFUBEzr HTTP/1.1
+
+>>>>> Forward request headers to server
+POST /NQMdM4HRCO2swDnM8/UlLqpRcKevFGlgFUBEzr HTTP/1.1
+Accept-Charset: utf-8
+Host: www.cnblogs.com
+Connection: keep-alive
+Authorization: Basic YWRta67cYWRtaW4=
+Accept: video/mpeg
+Content-Length: 484
+> Parse Content-Length: 484
+ > length : 484
+<Request Body>
+>> exit while loop status : 1
+
+<<<<< Receive response from server.
+>>>> Jarvis: Request Headers
+>> GET http://127.0.0.1:39433/ HTTP/1.1
+
+>>>>> Forward request headers to server
+GET / HTTP/1.1
+Accept-Charset: utf-8
+Host: www.baidu.com
+Accept: image/jpeg
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Accept-Charset: utf-8
+>>Host: www.google.com
+>>Connection: close
+>>Content-Length: 1442616
+> Paring -> Content-Length : 1442616
+>>
+<Response body>
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:33265/P9fJMA3MxbHDyRsz HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /P9fJMA3MxbHDyRsz HTTP/1.1
+Accept-Charset: utf-8
+Authorization: Basic YWRta67cYWRtaW4=
+Accept: image/jpeg
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Content-Length: 179
+> Paring -> Content-Length : 179
+>>
+<Response body>
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:39695/pggz0vb9QB8Cghxw1Kq HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /pggz0vb9QB8Cghxw1Kq HTTP/1.1
+Accept-Charset: utf-8
+Connection: close
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:39727/KI2c715Ldm9Bn HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /KI2c715Ldm9Bn HTTP/1.1
+Host: www.cnblogs.com
+Connection: keep-alive
+>> Jarvis: Request Headers
+>> GET http://192.168.195.129:35513/pvpa4oNWpl HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /pvpa4oNWpl HTTP/1.1
+Connection: keep-alive
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:33619/Tqy21E6U406jzauli5 HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /Tqy21E6U406jzauli5 HTTP/1.1
+Host: ipads.se.sjtu.edu.cn
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Connection: close
+>>Server: i9Uike2nqgOCvAG
+>>Content-Length: 186
+> Paring -> Content-Length : 186
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:04 EDT: 127.0.0.1 http://127.0.0.1:33265/P9fJMA3MxbHDyRsz 219
+Authorization: Basic YWRtaW46YWRtaW4=
+Accept: application/octet-stream
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Accept-Charset: utf-8
+>>Host: www.cnblogs.com
+>>Authorization: Basic YWRta67cYWRtaW4=
+>>Server: 9g7y3ivz4qBswvBwi7dm
+>>Content-Length: 180
+> Paring -> Content-Length : 180
+>>Authorization: Basic YWRtaW46YWRtaW4=
+Accept: text/plain
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Host: www.baidu.com
+>>Connection: close
+>>Authorization: Basic YWRta67cYWRtaW4=
+>>Content-Length: 122
+> Paring -> Content-Length : 122
+>>
+<Response body>
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:41587/RB4CPyE9fYbROc HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /RB4CPyE9fYbROc HTTP/1.1
+Connection: close
+Authorization: Basic YWRtaW46YWRtaW4=
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Accept-Charset: latin-1
+>>Host: www.cnblogs.com
+>>Connection: close
+>>>> Jarvis: Request Headers
+>> GET http://127.0.0.1:39397/aXYi8QVjvf02xuSKp HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /aXYi8QVjvf02xuSKp HTTP/1.1
+Host: www.cnblogs.com
+Authorization: Basic YWRtaW46YWRtaW4=
+Accept: video/mpeg
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Host: ipads.se.sjtu.edu.cn
+>>Authorization: Basic YWRtaW46YWRtaW4=
+>>Server: PnMVtuVysaHU
+>>Content-Length: 195
+> Paring -> Content-Length : 195
+>>
+<Response body>
+>> Jarvis: Request Headers
+>> GET http://127.0.0.1:45705/W6zPINC6dvjS0Si5MchC HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /W6zPINC6dvjS0Si5MchC HTTP/1.1
+Accept-Charset: utf-8
+Host: www.google.com
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:07 EDT: 127.0.0.1 http://127.0.0.1:33619/Tqy21E6U406jzauli5 270
+
+<Response body>
+Connection: close
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Accept-Charset: latin-1
+>>Host: www.cnblogs.com
+>>Authorization: Basic YWRta67cYWRtaW4=
+>>>> Jarvis: Request Headers
+>> GET http://192.168.195.129:42485/WIa67FL3OxV HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /WIa67FL3OxV HTTP/1.1
+Accept-Charset: utf-8
+Authorization: Basic YWRta67cYWRtaW4=
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:08 EDT: 192.168.195.129 http://127.0.0.1:39695/pggz0vb9QB8Cghxw1Kq 241
+Authorization: Basic YWRtaW46YWRtaW4=
+>>Content-Length: 152
+> Paring -> Content-Length : 152
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:09 EDT: 192.168.195.129 http://127.0.0.1:41587/RB4CPyE9fYbROc 298
+Content-Length: 111
+> Paring -> Content-Length : 111
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:10 EDT: 127.0.0.1 http://192.168.195.129:35513/pvpa4oNWpl 335
+>> Jarvis: Request Headers
+>> GET http://192.168.195.129:42069/bNDE553KQP HTTP/1.1
+
+>>>>> Forward request headers to server
+GET /bNDE553KQP HTTP/1.1
+Accept-Charset: latin-1
+Connection: keep-alive
+Authorization: Basic YWRtaW46YWRtaW4=
+Accept: text/plain
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Accept-Charset: latin-1
+>>Host: www.baidu.com
+>>Connection: keep-alive
+>>Server: JrSFEW5iYZy4dmh
+>>Content-Length: 128
+> Paring -> Content-Length : 128
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:11 EDT: 127.0.0.1 http://127.0.0.1:45705/W6zPINC6dvjS0Si5MchC 238
+Authorization: Basic YWRta67cYWRtaW4=
+Accept: image/jpeg
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Accept-Charset: gb2312
+>>Host: www.baidu.com
+>>Connection: keep-alive
+>>Authorization: Basic YWRtaW46YWRtaW4=
+>>Server: ge3KjQeiqOE
+>>
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:12 EDT: 192.168.195.129 http://127.0.0.1:39727/KI2c715Ldm9Bn 263
+Accept: video/mpeg
+
+<<<<< Receive response from server.
+>>HTTP/1.1 200 OK
+>>Host: www.google.com
+>>Content-Length: 113
+> Paring -> Content-Length : 113
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:13 EDT: 192.168.195.129 http://192.168.195.129:42485/WIa67FL3OxV 175
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:14 EDT: 127.0.0.1 http://127.0.0.1:39397/aXYi8QVjvf02xuSKp 324
+Content-Length: 181
+> Paring -> Content-Length : 181
+>>
+<Response body>
+
+>> Jarvis: Connection Closed.
+Sat 01 Jun 2019 22:53:14 EDT: 192.168.195.129 http://192.168.195.129:42069/bNDE553KQP 350
